@@ -1,0 +1,9 @@
+source;share/zstd/hook/ld_library_path_lib.ps1
+source;share/zstd/hook/ld_library_path_lib.dsv
+source;share/zstd/hook/ld_library_path_lib.sh
+source;share/zstd/hook/path.ps1
+source;share/zstd/hook/path.dsv
+source;share/zstd/hook/path.sh
+source;share/zstd/hook/pythonscriptspath.ps1
+source;share/zstd/hook/pythonscriptspath.dsv
+source;share/zstd/hook/pythonscriptspath.sh
