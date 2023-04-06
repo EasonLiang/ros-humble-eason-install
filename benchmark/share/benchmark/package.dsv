@@ -1,0 +1,6 @@
+source;share/benchmark/hook/cmake_prefix_path.ps1
+source;share/benchmark/hook/cmake_prefix_path.dsv
+source;share/benchmark/hook/cmake_prefix_path.sh
+source;share/benchmark/hook/pkg_config.ps1
+source;share/benchmark/hook/pkg_config.dsv
+source;share/benchmark/hook/pkg_config.sh
