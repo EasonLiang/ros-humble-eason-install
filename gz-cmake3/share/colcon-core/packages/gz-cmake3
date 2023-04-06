@@ -1,0 +1,1 @@
+:"${signature}":"OGRE":"libzmq:${ZeroMQ_FIND_VERSION}":Bullet:CURL:Doxygen:Eigen3:GzOGRE2:NO_CMAKE_ENVIRONMENT_PATH:OGRE:PkgConfig:Protobuf:Python3:PythonInterp:QUIET:ZeroMQ:assimp:benchmark:dlfcn-win32:gts:gz-component_deps:gz-core_no_deps:gz-core_no_deps_static:gz-find_config:jsoncpp:urdfdom:yaml
