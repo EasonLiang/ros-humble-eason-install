@@ -1,0 +1,9 @@
+source;share/FOONATHAN_MEMORY/hook/cmake_prefix_path.ps1
+source;share/FOONATHAN_MEMORY/hook/cmake_prefix_path.dsv
+source;share/FOONATHAN_MEMORY/hook/cmake_prefix_path.sh
+source;share/FOONATHAN_MEMORY/hook/path.ps1
+source;share/FOONATHAN_MEMORY/hook/path.dsv
+source;share/FOONATHAN_MEMORY/hook/path.sh
+source;share/FOONATHAN_MEMORY/hook/pythonscriptspath.ps1
+source;share/FOONATHAN_MEMORY/hook/pythonscriptspath.dsv
+source;share/FOONATHAN_MEMORY/hook/pythonscriptspath.sh
