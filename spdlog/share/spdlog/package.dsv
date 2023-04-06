@@ -1,0 +1,6 @@
+source;share/spdlog/hook/cmake_prefix_path.ps1
+source;share/spdlog/hook/cmake_prefix_path.dsv
+source;share/spdlog/hook/cmake_prefix_path.sh
+source;share/spdlog/hook/pkg_config.ps1
+source;share/spdlog/hook/pkg_config.dsv
+source;share/spdlog/hook/pkg_config.sh
