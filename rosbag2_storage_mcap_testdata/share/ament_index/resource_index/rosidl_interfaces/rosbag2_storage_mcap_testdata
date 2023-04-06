@@ -1,0 +1,8 @@
+msg/BasicIdl.idl
+msg/BasicMsg.idl
+msg/BasicMsg.msg
+msg/ComplexIdl.idl
+msg/ComplexMsg.idl
+msg/ComplexMsg.msg
+msg/ComplexMsgDependsOnIdl.idl
+msg/ComplexMsgDependsOnIdl.msg
