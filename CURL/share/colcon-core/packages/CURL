@@ -1,0 +1,1 @@
+${_HEIMDAL_MODNAME}:${_MIT_MODNAME}:${_crypto_library}:BearSSL:Brotli:CARES:GSS:LibSSH2:MbedTLS:NGHTTP2:NGHTTP3:NGTCP2:NSS:OpenSSL:Perl:PkgConfig:QUICHE:Threads:WolfSSL:Zstd:lib${_crypto_library}:libnghttp3:libngtcp2:libssh:libzstd:nss:quiche
